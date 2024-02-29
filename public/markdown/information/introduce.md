@@ -6,4 +6,4 @@
 
 ### SKILLS
 
-`JavaScript` `React` `Next.JS` `TypeScript` `axios` `React Query` `Recoil` `TailwindCSS` `styled-components` `figma`
+`JavaScript` `React` `Next.JS` `TypeScript` `axios` `React Query` `Recoil` `TailwindCSS` `styled-components` `github` `figma`
